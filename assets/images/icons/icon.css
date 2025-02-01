@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+
+.icon-biotech {
+    mask-image: url(biotech.svg);
+    -webkit-mask-image: url(biotech.svg);
+}
+.icon-av_timer {
+    mask-image: url(av_timer.svg);
+    -webkit-mask-image: url(av_timer.svg);
+}
+.icon-analytics{
+    mask-image: url(analytics.svg);
+    -webkit-mask-image: url(analytics.svg);
+}
+.icon-check{
+    mask-image: url(check.svg);
+    -webkit-mask-image: url(check.svg);
+}
+.icon-zoom_in{
+    mask-image: url(zoom_in.svg);
+    -webkit-mask-image: url(zoom_in.svg);
+}
+.icon-person{
+    mask-image: url(person.svg);
+    -webkit-mask-image: url(person.svg);
+}
+.icon-dictionary{
+    mask-image: url(dictionary.svg);
+    -webkit-mask-image: url(dictionary.svg);
+}
+.icon-vpn_key_off{
+    mask-image: url(vpn_key_off.svg);
+    -webkit-mask-image: url(vpn_key_off.svg);
+}
+.icon-star{
+    mask-image: url(star.svg);
+    -webkit-mask-image: url(star.svg);
+}
+.icon-favorite{
+    mask-image: url(favorite.svg);
+    -webkit-mask-image: url(favorite.svg);
+}
+.icon-rocket_launch{
+    mask-image: url(rocket_launch.svg);
+    -webkit-mask-image: url(rocket_launch.svg);
+}
+.icon-list_alt{
+    mask-image: url(list_alt.svg);
+    -webkit-mask-image: url(list_alt.svg);
+}
+.icon-settings{
+    mask-image: url(settings.svg);
+    -webkit-mask-image: url(settings.svg);
+}
+.icon-database_search{
+    mask-image: url(database_search.svg);
+    -webkit-mask-image: url(database_search.svg);
+}
+.icon-assignment{
+    mask-image: url(assignment.svg);
+    -webkit-mask-image: url(assignment.svg);
+}
+.icon-arrow{
+    mask-image: url(arrow.svg);
+    -webkit-mask-image: url(arrow.svg);
+}
+.icon-border_color{
+    mask-image: url(border_color.svg);
+    -webkit-mask-image: url(border_color.svg);
+}
