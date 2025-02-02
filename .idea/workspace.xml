@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="" />
+    <list default="true" id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeCopy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeCopy2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeCopy1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,22 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.backgroundRemoval.html.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindow.documentation.v2.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/treatment&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.backgroundRemoval.html.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindow.documentation.v2.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/tableseat-adaptive 02.02.2025",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.folding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
@@ -169,7 +174,8 @@
       <workItem from="1738248245030" duration="4042000" />
       <workItem from="1738255858370" duration="9589000" />
       <workItem from="1738415015688" duration="15714000" />
-      <workItem from="1738476264777" duration="1113000" />
+      <workItem from="1738476264777" duration="1370000" />
+      <workItem from="1738502271949" duration="648000" />
     </task>
     <servers />
   </component>
