@@ -95,9 +95,6 @@
     display: none;
 }
 
-.menu-content-mobile {
-    display: none;
-}
 
 .header-mobile-actions {
     display: none;
@@ -313,12 +310,7 @@
         position: relative;
     }
 
-    .menu-content-mobile {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 12px;
-    }
+
 
     .menu-mobile-title {
         width: 100%;

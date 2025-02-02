@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/general.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeCopy.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeCopy.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Image.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pvFlLSODo2MwH9FmLtuBOMQXUC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.backgroundRemoval.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow.documentation.v2.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/treatment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\treatment" />
+      <recent name="C:\Users\Lenovo\Desktop\treatment\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\Фриланс\SatelliteText\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\SatelliteText\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\Satellite-AI-Text\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\treatment\assets\images\icons" />
+      <recent name="C:\Users\Lenovo\Desktop\treatment\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\treatment\assets\font" />
+      <recent name="C:\Users\Lenovo\Desktop\Satellite-AI-Text\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\Satellite-AI-Text\assets\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="backgroundRemoval.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Satellite-AI-Images/backgroundRemoval.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.backgroundRemoval.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="" />
+      <created>1733638791426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733638791426</updated>
+      <workItem from="1733638792458" duration="19207000" />
+      <workItem from="1733660056613" duration="16641000" />
+      <workItem from="1733688460011" duration="2606000" />
+      <workItem from="1733694475336" duration="1081000" />
+      <workItem from="1733726896362" duration="21955000" />
+      <workItem from="1733759159280" duration="620000" />
+      <workItem from="1733771353857" duration="8356000" />
+      <workItem from="1733815215367" duration="5302000" />
+      <workItem from="1733821034203" duration="4937000" />
+      <workItem from="1733839060168" duration="2098000" />
+      <workItem from="1733900242263" duration="11452000" />
+      <workItem from="1733922051443" duration="21777000" />
+      <workItem from="1733983142848" duration="157000" />
+      <workItem from="1733986349157" duration="11000" />
+      <workItem from="1733988811803" duration="311000" />
+      <workItem from="1733997266927" duration="3139000" />
+      <workItem from="1734000974844" duration="9890000" />
+      <workItem from="1734012396763" duration="18101000" />
+      <workItem from="1734071363752" duration="4004000" />
+      <workItem from="1734076007050" duration="327000" />
+      <workItem from="1734077221252" duration="136000" />
+      <workItem from="1734077727991" duration="59000" />
+      <workItem from="1734079830656" duration="12120000" />
+      <workItem from="1734095780305" duration="2154000" />
+      <workItem from="1734102424251" duration="2035000" />
+      <workItem from="1734112604423" duration="2253000" />
+      <workItem from="1734120368040" duration="4423000" />
+      <workItem from="1734193052572" duration="13516000" />
+      <workItem from="1734246579824" duration="22803000" />
+      <workItem from="1734281120739" duration="1193000" />
+      <workItem from="1734288387512" duration="556000" />
+      <workItem from="1734330714477" duration="21185000" />
+      <workItem from="1734366374270" duration="3844000" />
+      <workItem from="1734418794841" duration="2213000" />
+      <workItem from="1734467991721" duration="111000" />
+      <workItem from="1734469636621" duration="188000" />
+      <workItem from="1734524398966" duration="142000" />
+      <workItem from="1734607160049" duration="6171000" />
+      <workItem from="1734633086769" duration="8906000" />
+      <workItem from="1734642539815" duration="1324000" />
+      <workItem from="1734677646977" duration="9294000" />
+      <workItem from="1734688135486" duration="13289000" />
+      <workItem from="1734707482216" duration="16588000" />
+      <workItem from="1734765326159" duration="29075000" />
+      <workItem from="1734809031687" duration="2321000" />
+      <workItem from="1734847018755" duration="6155000" />
+      <workItem from="1734872387163" duration="25433000" />
+      <workItem from="1734934611217" duration="4250000" />
+      <workItem from="1734956681118" duration="25997000" />
+      <workItem from="1735021583788" duration="1325000" />
+      <workItem from="1735024873105" duration="2853000" />
+      <workItem from="1735032138777" duration="34489000" />
+      <workItem from="1735109870483" duration="6042000" />
+      <workItem from="1735117669378" duration="35056000" />
+      <workItem from="1735194803774" duration="26145000" />
+      <workItem from="1735225793384" duration="28533000" />
+      <workItem from="1735258407059" duration="10000" />
+      <workItem from="1735258418274" duration="1833000" />
+      <workItem from="1735280940902" duration="1227000" />
+      <workItem from="1735283525064" duration="1827000" />
+      <workItem from="1735296712742" duration="2672000" />
+      <workItem from="1736250792724" duration="30000" />
+      <workItem from="1736358794174" duration="139000" />
+      <workItem from="1736418798811" duration="18000" />
+      <workItem from="1736419759095" duration="35000" />
+      <workItem from="1736510550177" duration="12659000" />
+      <workItem from="1736529715327" duration="12000" />
+      <workItem from="1736617730836" duration="642000" />
+      <workItem from="1736619348913" duration="4599000" />
+      <workItem from="1736625272562" duration="2222000" />
+      <workItem from="1736753430266" duration="7568000" />
+      <workItem from="1736951942164" duration="453000" />
+      <workItem from="1736952843964" duration="1150000" />
+      <workItem from="1736954145902" duration="6000" />
+      <workItem from="1737573831204" duration="66000" />
+      <workItem from="1737807205498" duration="101000" />
+      <workItem from="1737819431572" duration="783000" />
+      <workItem from="1737827510715" duration="32000" />
+      <workItem from="1737909272279" duration="589000" />
+      <workItem from="1738248245030" duration="4042000" />
+      <workItem from="1738255858370" duration="9589000" />
+      <workItem from="1738415015688" duration="15714000" />
+      <workItem from="1738476264777" duration="805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/swiper.js</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/gsap.js</url>
+          <line>139</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/index.js</url>
+          <line>95</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/index.js</url>
+          <line>48</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
