@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeCopy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeCopy2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeCopy1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindow.documentation.v2.ShowToolbar": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/tableseat-adaptive 02.02.2025",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Фриланс/treatment",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -175,7 +173,8 @@
       <workItem from="1738255858370" duration="9589000" />
       <workItem from="1738415015688" duration="15714000" />
       <workItem from="1738476264777" duration="1370000" />
-      <workItem from="1738502271949" duration="648000" />
+      <workItem from="1738502271949" duration="2306000" />
+      <workItem from="1738580699823" duration="779000" />
     </task>
     <servers />
   </component>
